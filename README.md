@@ -5,3 +5,5 @@ to:
 `while (counter <= 12)` for year
 and 
 `while (counter <= 7)` for week
+
+please run the project with `Live server`
