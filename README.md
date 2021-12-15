@@ -6,4 +6,4 @@ to:
 and 
 `while (counter <= 7)` for week
 
-please run the project with `Live server`
+please run the HTML page with `Live server`
