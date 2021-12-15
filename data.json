@@ -1,0 +1,1161 @@
+{
+  "data": {
+    "totalsOfCurrentMonth": [
+      {
+        "day": "2021-12-01",
+        "totalNumberOfTransactions": {
+          "TND": 16
+        },
+        "totalCashIn": {
+          "TND": 200400
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 1,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-02",
+        "totalNumberOfTransactions": {
+          "TND": 6
+        },
+        "totalCashIn": {
+          "TND": 150000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 2,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-03",
+        "totalNumberOfTransactions": {
+          "TND": 2
+        },
+        "totalCashIn": {
+          "TND": 50000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-04",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 0
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-05",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 0
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-06",
+        "totalNumberOfTransactions": {
+          "TND": 3
+        },
+        "totalCashIn": {
+          "TND": 50000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-07",
+        "totalNumberOfTransactions": {
+          "TND": 6
+        },
+        "totalCashIn": {
+          "TND": 29100
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-08",
+        "totalNumberOfTransactions": {
+          "TND": 11
+        },
+        "totalCashIn": {
+          "TND": 26100
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 23000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 1
+      },
+      {
+        "day": "2021-12-09",
+        "totalNumberOfTransactions": {
+          "TND": 20
+        },
+        "totalCashIn": {
+          "TND": 91100
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 14500
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-10",
+        "totalNumberOfTransactions": {
+          "TND": 12
+        },
+        "totalCashIn": {
+          "TND": 39000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 9000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-11",
+        "totalNumberOfTransactions": {
+          "TND": 2
+        },
+        "totalCashIn": {
+          "TND": 0
+        },
+        "totalCashOut": {
+          "TND": 10000
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-12",
+        "totalNumberOfTransactions": {
+          "TND": 2
+        },
+        "totalCashIn": {
+          "TND": 26000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 1,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-13",
+        "totalNumberOfTransactions": {
+          "TND": 3
+        },
+        "totalCashIn": {
+          "TND": 20000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 5000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 1,
+        "totalTemporaryUsers": 2
+      },
+      {
+        "day": "2021-12-14",
+        "totalNumberOfTransactions": {
+          "TND": 24
+        },
+        "totalCashIn": {
+          "TND": 205000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 72200
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 1,
+        "totalTemporaryUsers": 1
+      },
+      {
+        "day": "2021-12-15",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 16000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-16",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 20000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-17",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 6000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-18",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 84500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-19",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 65000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-20",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 40700
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-21",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 37200
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-22",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 33200
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-23",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 21200
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-24",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 18000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-25",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 172000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-26",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 97200
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-27",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 70000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-28",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 50700
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-29",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 70700
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-30",
+        "totalNumberOfTransactions": {
+          "TND": 0
+        },
+        "totalCashIn": {
+          "TND": 90700
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      },
+      {
+        "day": "2021-12-31",
+        "totalNumberOfTransactions": {
+          "TND": 10700
+        },
+        "totalCashIn": {
+          "TND": 0
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 0
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 0,
+        "totalTemporaryUsers": 0
+      }
+    ],
+    "totalsOfCurrentYear": [
+      {
+        "month": "1",
+        "totalNumberOfTransactions": {
+          "TND": 45
+        },
+        "totalCashIn": {
+          "TND": 700500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "2",
+        "totalNumberOfTransactions": {
+          "TND": 70
+        },
+        "totalCashIn": {
+          "TND": 1000500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "3",
+        "totalNumberOfTransactions": {
+          "TND": 60
+        },
+        "totalCashIn": {
+          "TND": 300500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "4",
+        "totalNumberOfTransactions": {
+          "TND": 55
+        },
+        "totalCashIn": {
+          "TND": 600500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "5",
+        "totalNumberOfTransactions": {
+          "TND": 30
+        },
+        "totalCashIn": {
+          "TND": 100000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "6",
+        "totalNumberOfTransactions": {
+          "TND": 40
+        },
+        "totalCashIn": {
+          "TND": 904000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "7",
+        "totalNumberOfTransactions": {
+          "TND": 35
+        },
+        "totalCashIn": {
+          "TND": 200000
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "8",
+        "totalNumberOfTransactions": {
+          "TND": 80
+        },
+        "totalCashIn": {
+          "TND": 900500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "9",
+        "totalNumberOfTransactions": {
+          "TND": 93
+        },
+        "totalCashIn": {
+          "TND": 1250500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "10",
+        "totalNumberOfTransactions": {
+          "TND": 60
+        },
+        "totalCashIn": {
+          "TND": 500500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "11",
+        "totalNumberOfTransactions": {
+          "TND": 65
+        },
+        "totalCashIn": {
+          "TND": 370500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      },
+      {
+        "month": "12",
+        "totalNumberOfTransactions": {
+          "TND": 140
+        },
+        "totalCashIn": {
+          "TND": 2740500
+        },
+        "totalCashOut": {
+          "TND": 0
+        },
+        "totalFees": {
+          "TND": 0
+        },
+        "totalTransfers": {
+          "TND": 1000
+        },
+        "totalTopup": {
+          "TND": 0
+        },
+        "totalActiveUsers": 30,
+        "totalTemporaryUsers": 20
+      }
+    ],
+    "totalsOfCurrentWeek": [
+        {
+          "week": "1",
+          "totalNumberOfTransactions": {
+            "TND": 30
+          },
+          "totalCashIn": {
+            "TND": 100500
+          },
+          "totalCashOut": {
+            "TND": 0
+          },
+          "totalFees": {
+            "TND": 0
+          },
+          "totalTransfers": {
+            "TND": 1000
+          },
+          "totalTopup": {
+            "TND": 0
+          },
+          "totalActiveUsers": 30,
+          "totalTemporaryUsers": 20
+        },
+        {
+            "week": "2",
+            "totalNumberOfTransactions": {
+              "TND": 24
+            },
+            "totalCashIn": {
+              "TND": 140500
+            },
+            "totalCashOut": {
+              "TND": 0
+            },
+            "totalFees": {
+              "TND": 0
+            },
+            "totalTransfers": {
+              "TND": 1000
+            },
+            "totalTopup": {
+              "TND": 0
+            },
+            "totalActiveUsers": 30,
+            "totalTemporaryUsers": 20
+          },
+          {
+            "week": "3",
+            "totalNumberOfTransactions": {
+              "TND": 40
+            },
+            "totalCashIn": {
+              "TND": 300500
+            },
+            "totalCashOut": {
+              "TND": 0
+            },
+            "totalFees": {
+              "TND": 0
+            },
+            "totalTransfers": {
+              "TND": 1000
+            },
+            "totalTopup": {
+              "TND": 0
+            },
+            "totalActiveUsers": 30,
+            "totalTemporaryUsers": 20
+          },
+          {
+            "week": "4",
+            "totalNumberOfTransactions": {
+              "TND": 45
+            },
+            "totalCashIn": {
+              "TND": 507500
+            },
+            "totalCashOut": {
+              "TND": 0
+            },
+            "totalFees": {
+              "TND": 0
+            },
+            "totalTransfers": {
+              "TND": 1000
+            },
+            "totalTopup": {
+              "TND": 0
+            },
+            "totalActiveUsers": 30,
+            "totalTemporaryUsers": 20
+          },
+          {
+            "week": "5",
+            "totalNumberOfTransactions": {
+              "TND": 33
+            },
+            "totalCashIn": {
+              "TND": 230500
+            },
+            "totalCashOut": {
+              "TND": 0
+            },
+            "totalFees": {
+              "TND": 0
+            },
+            "totalTransfers": {
+              "TND": 1000
+            },
+            "totalTopup": {
+              "TND": 0
+            },
+            "totalActiveUsers": 30,
+            "totalTemporaryUsers": 20
+          },
+          {
+            "week": "6",
+            "totalNumberOfTransactions": {
+              "TND": 39
+            },
+            "totalCashIn": {
+              "TND": 134500
+            },
+            "totalCashOut": {
+              "TND": 0
+            },
+            "totalFees": {
+              "TND": 0
+            },
+            "totalTransfers": {
+              "TND": 1000
+            },
+            "totalTopup": {
+              "TND": 0
+            },
+            "totalActiveUsers": 30,
+            "totalTemporaryUsers": 20
+          },
+          {
+            "week": "7",
+            "totalNumberOfTransactions": {
+              "TND": 27
+            },
+            "totalCashIn": {
+              "TND": 145500
+            },
+            "totalCashOut": {
+              "TND": 0
+            },
+            "totalFees": {
+              "TND": 0
+            },
+            "totalTransfers": {
+              "TND": 1000
+            },
+            "totalTopup": {
+              "TND": 0
+            },
+            "totalActiveUsers": 30,
+            "totalTemporaryUsers": 20
+          }
+
+      ]
+  }
+}
